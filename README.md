@@ -24,18 +24,6 @@ A Machine Learning powered web application built using **Streamlit** that predic
 
 ---
 
-## 📁 Project Structure
-
-```
-Project/
-│── app.py              
-│── model.pkl           
-│── README.md           
-│── venv/               
-
----
-
-
 
 ## 📊 How It Works
 
